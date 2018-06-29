@@ -44,3 +44,10 @@ ul li {
 a {
   color: white;
 }
+
+.portfolio {
+  background-image: url("../../resources/images/the-flatiron-building.png");
+  font-size:  23px;
+  font-weight: bold;
+  color: white;
+}
