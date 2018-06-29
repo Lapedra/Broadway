@@ -4,16 +4,25 @@ body {
 }
 
 .header {
+  background: url("../../resources/images/the-flatiron-building.png")
+}
+
+.nav a {
+  font-size: 18px;
+  color: white;
+}
+
+h1 {
   font-size: 70px;
   font-weight: bold;
-  color: black;
-  background: url(the-flatiron-building.png) bottom center no-repeat,
+  color: white;
 }
 
 h2 {
   font-size: 32px;
   font-weight: bold;
 }
+
 h3 {
   font-size: 23px;
   font-weight: bold;
@@ -29,11 +38,6 @@ p {
     color: white;
 }
 
-ul li {
-  font-size: 18px;
-  color: black;
-}
-
 .footer {
   font-size: 11px;
   color: white;
@@ -41,8 +45,9 @@ ul li {
   text-align: left;
 }
 
-a {
+.bottom-links a {
   color: white;
+  font-size: 16px;
 }
 
 .portfolio {
